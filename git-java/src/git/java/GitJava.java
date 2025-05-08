@@ -11,7 +11,11 @@ public class GitJava {
          System.out.println("Hello Java from Git");
          
          for(int i = 0; i < 10; i++) {
-             System.out.println("hello");
+             System.out.println("Java");
+         };
+
+        for(int i = 0; i < 10; i++) {
+             System.out.println("Git");
          };
     }
     
