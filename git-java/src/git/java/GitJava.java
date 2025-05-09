@@ -19,6 +19,8 @@ public class GitJava {
          };
          
           System.out.println("Hello Git from BRANCH!!");
+
+          System.out.println("Hello Java from git changes!!");
     }
     
 }
