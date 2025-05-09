@@ -23,6 +23,8 @@ public class GitJava {
           System.out.println("Hello Java from git changes!!");
           
           System.out.println("Let's make a mearge on Git!!");
+
+          System.out.println("Now we try an InteliJ");
     }
     
 }
