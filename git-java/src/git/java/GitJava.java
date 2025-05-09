@@ -21,6 +21,8 @@ public class GitJava {
           System.out.println("Hello Git from BRANCH!!");
 
           System.out.println("Hello Java from git changes!!");
+          
+          System.out.println("Let's make a mearge on Git!!");
     }
     
 }
